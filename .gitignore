@@ -20,6 +20,9 @@ venv/
 
 # プロジェクトデータ（ローカル用）
 projects/
+knowledge_store/
+manuals_store/
+.manual_app_config.json
 
 # IDE
 .vscode/
